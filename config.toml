@@ -1,0 +1,4 @@
+baseURL = "http://feralholding.github.io/"
+languageCode = "en-us"
+title = "Feral Holding"
+theme = "dimension"
