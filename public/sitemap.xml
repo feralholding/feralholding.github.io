@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:46561/about/</loc>
+    <loc>http://localhost:33989/about/</loc>
   </url><url>
-    <loc>http://localhost:46561/categories/</loc>
+    <loc>http://localhost:33989/categories/</loc>
   </url><url>
-    <loc>http://localhost:46561/contact-us/</loc>
+    <loc>http://localhost:33989/contact-us/</loc>
   </url><url>
-    <loc>http://localhost:46561/</loc>
+    <loc>http://localhost:33989/</loc>
   </url><url>
-    <loc>http://localhost:46561/posts/</loc>
+    <loc>http://localhost:33989/posts/</loc>
   </url><url>
-    <loc>http://localhost:46561/tags/</loc>
+    <loc>http://localhost:33989/tags/</loc>
   </url>
 </urlset>
