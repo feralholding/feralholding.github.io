@@ -3,7 +3,7 @@ title: "Breaking Free"
 date: 2024-10-14T22:53:55-04:00
 ---
 
-# Breaking Free: The Feral Holding Financial Revolution
+# The Feral Holding Financial Revolution
 
 Definition:
 
