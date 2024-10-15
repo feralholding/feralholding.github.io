@@ -4,30 +4,11 @@ logo: "../images/feral-holding-bg.png"
 
 ---
 
-## Table of contents
+# About Feral Holding
+At Feral Holding, we believe that businesses thrive when they’re free to focus on what truly drives them—whether that’s innovation, growth, or making an impact. As a private bank, we provide companies with the financial freedom and strategic support they need to concentrate on their core mission without distractions.
 
-- [Table of contents](#table-of-contents)
-- [History](#history)
-- [Management](#management)
-  - [Board of Trustees](#board-of-trustees)
-  - [Trustees](#trustees)
-- [Media](#media)
+Behind Feral Holding is a dedicated group of trustees who share a common vision: to preserve the essence of family, community, and culture. Together, we ensure that the businesses we support stay grounded in values that matter while fostering a lasting legacy for generations to come. We are more than just financial partners—we’re stewards of progress and preservation, empowering companies to unleash their potential while staying connected to what’s most important.
 
-## History
 
-Feral Holding was created in October of 2024
-
-## Management
-
-### Board of Trustees
-
-* Contact for details
-
-### Trustees
-
-* TBD
-
-### Media
-
-* email: [Public Relations](mailto:pr@feralholding.com)
+contact: [Investor Relations](mailto:feralholdingtrust@gmail.com)
 
