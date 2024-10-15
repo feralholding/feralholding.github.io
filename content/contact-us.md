@@ -1,5 +1,5 @@
 ---
-title: About
+title: contact us
 logo: "images/feral-holding-bg.png"
 
 ---
