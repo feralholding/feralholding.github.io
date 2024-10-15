@@ -11,6 +11,7 @@ logo: "../images/feral-holding-bg.png"
 - [Ownership](#ownership)
   - [Board](#board)
   - [Trustees](#trustees)
+- [Media](#media)
 
 ## History
 
@@ -25,4 +26,8 @@ Feral Holding was created in October of 2024
 ### Trustees
 
 * TBD
+
+### Media
+
+* email: [Public Relations](mailto:pr@feralholding.com)
 
