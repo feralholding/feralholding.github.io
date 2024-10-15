@@ -1,11 +1,9 @@
 ---
-title: "Breaking Free: The Feral Financial Revolution"
+title: "Feral Holding: Breaking Free"
 date: 2024-10-14T22:53:55-04:00
 ---
 
 # Breaking Free: The Feral Financial Revolution
-
-Title: "Breaking Free: The Feral Financial Revolution"
 
 Definition:
 
